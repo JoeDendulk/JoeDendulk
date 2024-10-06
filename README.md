@@ -5,7 +5,7 @@ I'm a dedicated IT Technician with a passion for problem-solving and a lifelong 
 
 ## Objective
 
-Through my years in the computer support roles, I was exposed to the world of cybersecurity, and I am now looking to transition into the field.
+After a decade in computer support roles, I was exposed to the world of cybersecurity, and I am now looking to transition into the field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
