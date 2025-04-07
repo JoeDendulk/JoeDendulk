@@ -35,3 +35,22 @@ After over a decade in computer support roles, I was exposed to the world of cyb
 |      | |
 |                 | |
 |  | |
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### EDR
+
+### UEM
+<div>
+ <img src="https://img.shields.io/badge/-Endpoint%20Central-338aff?style=for-the-badge&logo=ManageEngine&logoColor=white" />
+</div>
