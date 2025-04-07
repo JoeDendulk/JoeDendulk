@@ -11,20 +11,19 @@ After over a decade in computer support roles, I was exposed to the world of cyb
 
 <h2>Certifications:</h2>
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
-</a>
-  <img src="https://img.shields.io/badge/-Network%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+" />
-</a>
-  <img src="https://img.shields.io/badge/-A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" />
-</a>
-  <img src="https://img.shields.io/badge/-Project%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Project+" />
-</a>
-  <img src="https://img.shields.io/badge/-ITIL%20Certified-0033A0?style=for-the-badge&logo=itv&logoColor=white" alt="ITIL Certified Badge" />
-</a>
-  <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Professional-7373C3?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Professional" />
-</a>
-</div>    
+  
+[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/917322cb-17e6-4243-94e6-e0ba6e93c983/public_url)
 
+[![CompTIA Network+](https://img.shields.io/badge/-Network%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/a926e5d4-9e9d-41ef-a02c-6c7262a5cb20/public_url)
+
+[![CompTIA A+](https://img.shields.io/badge/-A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/101540fa-0eb0-4545-acb6-5d86b00bffa2/public_url)
+    
+[![CompTIA Project+](https://img.shields.io/badge/-Project%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/101540fa-0eb0-4545-acb6-5d86b00bffa2/public_url)
+
+[![ITIL Certified](https://img.shields.io/badge/-ITIL%20Certified-0033A0?style=for-the-badge&logo=itv&logoColor=white)](https://badges.peoplecert.org/Badge/en/A5D42D8C-EF2C-40A4-A4B7-333B61F0BE5B)
+
+[![Microsoft Certified Professional](https://img.shields.io/badge/-Microsoft%20Certified%20Professional-7373C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/)
+</div>    
 
 ## Skills
 
