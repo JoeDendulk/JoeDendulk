@@ -1,57 +1,38 @@
-# Hello, I'm Joe
-<a href="https://www.linkedin.com/in/joedendulk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I'm a dedicated IT Technician with a passion for problem-solving and a lifelong love of technology.
+<h1>Hello, I'm Joe. <br/><a href="https://www.linkedin.com/in/joedendulk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
-After a decade in computer support roles, I was exposed to the world of cybersecurity, and I am now looking to transition into the field.
+After over a decade in computer support roles, I was exposed to the world of cybersecurity, and I am now looking to transition into the field while I complete my Bachelor of Science, Cybersecurity and Information Assurance degree at WGU.
+
+<h2>Cybersecurity Projects</h2>
+
+- <b>Security Auditing & Compliance:</b>
+  - [Perform System Configuration Gap Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Certifications:</h2>
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
+</a>
+  <img src="https://img.shields.io/badge/-Network%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+" />
+</a>
+  <img src="https://img.shields.io/badge/-A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" />
+</a>
+  <img src="https://img.shields.io/badge/-Project%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Project+" />
+</a>
+  <img src="https://img.shields.io/badge/-ITIL%20Certified-0033A0?style=for-the-badge&logo=itv&logoColor=white" alt="ITIL Certified Badge" />
+</a>
+  <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Professional-7373C3?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Professional" />
+</a>
+</div>    
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+| Security Configuration Management             |Perform System Configuration Gap Analysis |
+| Policy Analyzer                               |Perform System Configuration Gap Analysis |
+| Powershell                                    |Perform System Configuration Gap Analysis|
+|      | |
+|                 | |
+|  | |
