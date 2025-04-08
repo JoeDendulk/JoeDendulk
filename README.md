@@ -7,7 +7,7 @@ After over a decade in computer support roles, I was exposed to the world of cyb
 <h2>Cybersecurity Projects</h2>
 
 - <b>Security Auditing & Compliance:</b>
-  - [Perform System Configuration Gap Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Perform System Configuration Gap Analysis](https://github.com/JoeDendulk/GapAnalysisLab)
 
 <h2>Certifications:</h2>
 <div>
