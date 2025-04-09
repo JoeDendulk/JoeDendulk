@@ -52,5 +52,16 @@ After over a decade in computer support roles, I was exposed to the world of cyb
 
 ### UEM
 <div>
- <img src="https://img.shields.io/badge/-Endpoint%20Central-338aff?style=for-the-badge&logo=ManageEngine&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Endpoint%20Central-efeeea?style=for-the-badge&logo=ManageEngine&logoColor=white" />
+</div>
+
+### IAM
+<div>
+<img src="https://img.shields.io/badge/-Active%20Directory-f3df31?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
+### Languages
+<div>
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
