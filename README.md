@@ -8,7 +8,7 @@ After over a decade in computer support roles, I was exposed to the world of cyb
 
 - <b>Security Auditing & Compliance:</b>
   - [Perform System Configuration Gap Analysis](https://github.com/JoeDendulk/GapAnalysisLab)
-
+  - [Configuring Examples of Security Control Types](https://github.com/JoeDendulk/SecurityControlTypes)
 <h2>Certifications:</h2>
 <div>
   
