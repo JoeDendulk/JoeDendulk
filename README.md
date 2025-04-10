@@ -10,6 +10,8 @@ After over a decade in computer support roles, I was exposed to the world of cyb
   - [Perform System Configuration Gap Analysis](https://github.com/JoeDendulk/GapAnalysisLab)
 - <b>Security Hardening:</b>
   - [Configuring Examples of Security Control Types](https://github.com/JoeDendulk/SecurityControlTypes)
+- <b>Network Scanning and Enumeration</b>
+  - [Finding Open Service Ports](https://github.com/JoeDendulk/FindingOpenServicePorts)
 <h2>Certifications:</h2>
 <div>
   
