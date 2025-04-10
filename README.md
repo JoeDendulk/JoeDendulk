@@ -32,12 +32,11 @@ After over a decade in computer support roles, I was exposed to the world of cyb
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Configuration Management             |Perform System Configuration Gap Analysis |
-| Policy Analyzer                               |Perform System Configuration Gap Analysis |
+| Incident Prevention                           |Perform System Configuration Gap Analysis|
 | Powershell                                    |Perform System Configuration Gap Analysis|
-|      | |
-|                 | |
-|  | |
+| Security Controls                             |Configuring Examples of Security Control Types|
+| Network Enumeration                           |Finding Open Service Ports|
+| Linux                                         |Finding Open Service Ports|
 
 ## Tools
 
